@@ -29,9 +29,9 @@ Power Bi - used for data cleaning, analysis, and Visualisation.
 * Built dashboards for customer response and value analysis
 
 ### Dashboard preview
-![Dashboard][IMG_dashboard 1.png]
+![Dashboard](IMG_dashboard 1.png)
 
-![Dashboard][IMG_dashboard 2.png]
+![Dashboard](IMG_dashboard 2.png)
 
 ### Key Insights
 
